@@ -1,0 +1,11 @@
+{
+    "wallet_address":"0x0000000000000000000000000000000000000000",
+    "wallet_privatekey":"b000000000000000000000000000000000000000000000000000000000000000",
+    "rpc":"https://rpc.ankr.com/fantom",
+    "ftm_balance_limit":5,
+    "ticket_quantity":0.5,
+    "mint_quantity":4,
+    "slippage":50,
+    "transaction_speed":15,
+    "gas_limit_gwei":500
+}
